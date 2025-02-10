@@ -36,5 +36,3 @@
 
 
 ---
-
-_🚀 Este README fue generado con amor por la comunidad open source. ¡Gracias por visitar mi perfil!_  
