@@ -29,10 +29,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,cpp,css,eclipse,html,java,js,postgres,postman,spring )](https://skillicons.dev)
 
-## 📊 GitHub Stats  
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bytor25&show_icons=true&theme=tokyonight" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bytor25&theme=tokyonight" /> |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytor25&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Bytor25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+## 📊 Mis Estadísticas de GitHub
+
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bytor25&theme=tokyonight) |![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Bytor25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)|
+|:-:|:-:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytor25&layout=compact&langs_count=8&theme=tokyonight) | ![GitHub Contributions](https://ghchart.rshah.org/Bytor25) |
+
+## 🚀 Reportes avanzados y datos históricos  
+
+🔹 📊 [Ver mi resumen de GitHub (estadísticas completas)](https://profile-summary-for-github.com/user/Bytor25)  
+🔹 🔍 [Ver mi perfil en GitHub](https://github.com/Bytor25)  
+🔹 📈 [Ver contribuciones anuales](https://github.com/Bytor25?tab=overview&from=2023-01-01&to=2023-12-31)  
+🔹 📌 [Ver mi GitHub Wrapped (historial completo)](https://githubwrapped.com/Bytor25)  
+ 
+
+
+
 
 
 ---
